@@ -32,10 +32,6 @@ export const metadata: Metadata = {
     "open source",
     "lordpipon",
   ],
-  icons: {
-    icon: "/icon.png",
-    apple: "/icon.png",
-  },
   openGraph: {
     title: "Codify — A fast, minimal IDE built on Rust & GPUI",
     description:
